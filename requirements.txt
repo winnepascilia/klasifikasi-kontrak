@@ -1,0 +1,8 @@
+streamlit
+gdown
+numpy
+pandas
+scikit-learn==1.2.2
+joblib
+cloudpickle
+scipy
